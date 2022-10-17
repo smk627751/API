@@ -1,0 +1,62 @@
+[
+    {
+       "name":"Wildmutt",
+       "species":"Vulpimancer",
+       "homeWorld":"Vulpin",
+       "img":"https://raw.githubusercontent.com/smk627751/ben10/80283d975532376a32419228b115fe9ee29a3527/images/Wildmutt.png"
+    },
+    {
+       "name":"Four Arms",
+       "species":"Tetramand",
+       "homeWorld":"Khoros",
+       "img":"https://raw.githubusercontent.com/smk627751/ben10/main/images/Four%20Arms.png"
+    },
+    {
+       "name":"Grey Matter",
+       "species":"Galvan",
+       "homeWorld":"Galvan Prime",
+       "img":"https://raw.githubusercontent.com/smk627751/ben10/main/images/Grey%20Matter.png"
+    },
+    {
+       "name":"XLR8",
+       "species":"Kineceleran",
+       "homeWorld":"Kinet",
+       "img":"https://github.com/smk627751/ben10/blob/main/images/XLR8.png?raw=true"
+    },
+    {
+       "name":"Upgrade",
+       "species":"Galvanic Mechamorph",
+       "homeWorld":"Galvan B",
+       "img":"https://github.com/smk627751/ben10/blob/main/images/Upgrade.png?raw=true"
+    },
+    {
+       "name":"Diamondhead",
+       "species":"Petrosapien",
+       "homeWorld":"Petrosapia",
+       "img":"https://github.com/smk627751/ben10/blob/main/images/Diamondhead.png?raw=true"
+    },
+    {
+       "name":"Ripjaws",
+       "species":"Piscciss Volann",
+       "homeWorld":"Piscciss",
+       "img":"https://github.com/smk627751/ben10/blob/main/images/Ripjaws.png?raw=true"
+    },
+    {
+       "name":"Stingfly",
+       "species":"Lepidopterran",
+       "homeWorld":"Lepidopterra",
+       "img":"https://github.com/smk627751/ben10/blob/main/images/Stingfly.png?raw=true"
+    },
+    {
+       "name":"Cannonbolt",
+       "species":"Arburian Pelarota",
+       "homeWorld":"Arburia (destroyed)",
+       "img":"https://github.com/smk627751/ben10/blob/main/images/Cannonbolt.png?raw=true"
+    },
+    {
+       "name":"Heatblast",
+       "species":"Pyronite",
+       "homeWorld":"Pyros",
+       "img":"https://github.com/smk627751/ben10/blob/main/images/Heatblast.png?raw=true"
+    }
+ ]
